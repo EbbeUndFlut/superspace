@@ -3,7 +3,7 @@ const SpaceDisplay = (props) => {
         <section>
             <img src={props.img} alt="" />
         </section>
-     );
+    );
 }
- 
+
 export default SpaceDisplay;
